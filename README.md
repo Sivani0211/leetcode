@@ -19,6 +19,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sivani0211/leetcode/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/Sivani0211/leetcode/tree/master/0075-sort-colors) |
+| [0238-product-of-array-except-self](https://github.com/Sivani0211/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Trie
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sivani0211/leetcode/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Sivani0211/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
