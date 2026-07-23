@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sivani0211/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Sivani0211/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sivani0211/leetcode/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Sivani0211/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
@@ -46,6 +47,7 @@
 | [0002-add-two-numbers](https://github.com/Sivani0211/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sivani0211/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sivani0211/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Sivani0211/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sivani0211/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/Sivani0211/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
