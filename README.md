@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sivani0211/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sivani0211/leetcode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -19,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sivani0211/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Sivani0211/leetcode/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/Sivani0211/leetcode/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Sivani0211/leetcode/tree/master/0238-product-of-array-except-self) |
