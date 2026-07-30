@@ -19,6 +19,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sivani0211/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sivani0211/leetcode/tree/master/0014-longest-common-prefix) |
+| [0392-is-subsequence](https://github.com/Sivani0211/leetcode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0075-sort-colors](https://github.com/Sivani0211/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivani0211/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Sivani0211/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Sivani0211/leetcode/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sivani0211/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivani0211/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Sivani0211/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
