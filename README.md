@@ -26,6 +26,7 @@
 | [0014-longest-common-prefix](https://github.com/Sivani0211/leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Sivani0211/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sivani0211/leetcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivani0211/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Sivani0211/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sivani0211/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Trie
@@ -38,6 +39,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sivani0211/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Sivani0211/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sivani0211/leetcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivani0211/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Sivani0211/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sivani0211/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sivani0211/leetcode/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivani0211/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
