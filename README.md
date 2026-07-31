@@ -31,6 +31,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sivani0211/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Sivani0211/leetcode/tree/master/0704-binary-search) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sivani0211/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sivani0211/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
 |  |
 | ------- |
@@ -78,8 +79,13 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivani0211/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Sivani0211/leetcode/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sivani0211/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Sivani0211/leetcode/tree/master/0392-is-subsequence) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sivani0211/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
