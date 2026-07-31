@@ -27,6 +27,7 @@
 | [0014-longest-common-prefix](https://github.com/Sivani0211/leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Sivani0211/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sivani0211/leetcode/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/Sivani0211/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivani0211/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Sivani0211/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Sivani0211/leetcode/tree/master/0704-binary-search) |
@@ -77,6 +78,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Sivani0211/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivani0211/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Sivani0211/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Sivani0211/leetcode/tree/master/0704-binary-search) |
