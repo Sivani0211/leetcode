@@ -29,6 +29,7 @@
 | [0075-sort-colors](https://github.com/Sivani0211/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivani0211/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Sivani0211/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/Sivani0211/leetcode/tree/master/0704-binary-search) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sivani0211/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Trie
 |  |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivani0211/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Sivani0211/leetcode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
