@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivani0211/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Sivani0211/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Sivani0211/leetcode/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sivani0211/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sivani0211/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sivani0211/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
