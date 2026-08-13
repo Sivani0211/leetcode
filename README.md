@@ -33,6 +33,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivani0211/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Sivani0211/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Sivani0211/leetcode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Sivani0211/leetcode/tree/master/0735-asteroid-collision) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sivani0211/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sivani0211/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
@@ -83,6 +84,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/Sivani0211/leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Sivani0211/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/Sivani0211/leetcode/tree/master/0735-asteroid-collision) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Sivani0211/leetcode/tree/master/0278-first-bad-version) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Sivani0211/leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
