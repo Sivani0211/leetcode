@@ -66,6 +66,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sivani0211/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Sivani0211/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sivani0211/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Sivani0211/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
