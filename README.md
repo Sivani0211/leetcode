@@ -20,6 +20,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sivani0211/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sivani0211/leetcode/tree/master/0014-longest-common-prefix) |
+| [0071-simplify-path](https://github.com/Sivani0211/leetcode/tree/master/0071-simplify-path) |
 | [0392-is-subsequence](https://github.com/Sivani0211/leetcode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -80,6 +81,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Sivani0211/leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Sivani0211/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
