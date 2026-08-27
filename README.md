@@ -120,4 +120,12 @@
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Sivani0211/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sivani0211/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Sivani0211/leetcode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Sivani0211/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
