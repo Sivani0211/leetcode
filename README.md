@@ -43,6 +43,7 @@
 | [0735-asteroid-collision](https://github.com/Sivani0211/leetcode/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sivani0211/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sivani0211/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Sivani0211/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sivani0211/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
 |  |
@@ -140,4 +141,5 @@
 | [0268-missing-number](https://github.com/Sivani0211/leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sivani0211/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sivani0211/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Sivani0211/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
