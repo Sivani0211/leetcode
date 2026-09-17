@@ -43,6 +43,7 @@
 | [0704-binary-search](https://github.com/Sivani0211/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Sivani0211/leetcode/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sivani0211/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Sivani0211/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Sivani0211/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sivani0211/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Sivani0211/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -69,12 +70,14 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Sivani0211/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Sivani0211/leetcode/tree/master/0268-missing-number) |
+| [1094-car-pooling](https://github.com/Sivani0211/leetcode/tree/master/1094-car-pooling) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sivani0211/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sivani0211/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sivani0211/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Sivani0211/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Sivani0211/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1732-find-the-highest-altitude](https://github.com/Sivani0211/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Linked List
@@ -131,6 +134,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sivani0211/leetcode/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/Sivani0211/leetcode/tree/master/1094-car-pooling) |
 ## Sliding Window
 |  |
 | ------- |
@@ -153,4 +157,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sivani0211/leetcode/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Sivani0211/leetcode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
