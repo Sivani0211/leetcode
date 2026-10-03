@@ -176,6 +176,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sivani0211/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sivani0211/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sivani0211/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/Sivani0211/leetcode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sivani0211/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sivani0211/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sivani0211/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/Sivani0211/leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -190,8 +192,10 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sivani0211/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sivani0211/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sivani0211/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/Sivani0211/leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sivani0211/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Sivani0211/leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
